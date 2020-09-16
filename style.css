@@ -1,0 +1,29 @@
+body {
+	max-width: 1024px;
+	text-align: center;
+	margin:auto;
+	height: 100%;	
+}
+
+.container {
+	background: black;
+	color: white;
+	font-weight: 200;
+	margin: 0 0 15px 0;
+	padding: 40px 0 8px 0;
+	border-radius: 0 0 40px 40px;	
+}
+
+img {
+	width:20%;
+	border-radius: 50%;
+}
+
+footer {
+	background: black;
+	color: white;
+	font-weight: 200;
+	margin: 0;
+	padding: 40px 0 8px 0;
+	border-radius: 40px 40px 0 0;
+}
